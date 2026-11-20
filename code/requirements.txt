@@ -1,0 +1,10 @@
+# inference (infer.py)
+numpy
+opencv-python-headless
+pillow
+ncnn            # used on the Raspberry Pi (aarch64)
+onnxruntime     # used on other machines
+# client.py (HTTP + MQTT)
+requests
+paho-mqtt>=2,<3
+# training only (Colab GPU): ultralytics, torch, onnx — see train.py and train_cls_gpu.py

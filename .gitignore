@@ -1,0 +1,10 @@
+outputs/
+test_data/
+logs/
+rehearsal_*/
+__pycache__/
+*.pyc
+team_config*.json
+*.tar.gz
+runs/
+venv/
