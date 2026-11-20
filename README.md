@@ -1,4 +1,4 @@
-# From zero to first place: Edge AI at TESA Top Gun Rally 2026
+index always count from zero to one: Edge AI at TESA Top Gun Rally 2026
 
 Team TGR-21 RTNA, Royal Thai Naval Academy · 20 November 2026
 
