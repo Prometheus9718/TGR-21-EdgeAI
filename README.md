@@ -8,7 +8,7 @@ This repo holds the whole story:
 
 - **This guide:** how each day went, what didn't work, and the lessons.
 - **[`code/`](code/):** everything that ran on the Raspberry Pi 5 in the final test, with the trained weights. It is the exact build we submitted.
-- **The dataset:** [`TGR-21_EdgeAI_dataset.zip`](https://github.com/Prometheus9718/TGR-21-EdgeAI/releases/latest/download/TGR-21_EdgeAI_dataset.zip) (49 MB) under [Releases](https://github.com/Prometheus9718/TGR-21-EdgeAI/releases), described in [`dataset/README.md`](dataset/README.md).
+- **[`dataset/`](dataset/):** the simulated piles and stress tests I built, with exact masks and classes, and our results on the test photo.
 
 ## Results
 
@@ -135,7 +135,7 @@ If I could brief myself on day zero, I'd say these eight things.
 
 ## Reproduce it
 
-Everything that ran in the final test is in [`code/`](code/), with the trained weights; its README lists every command. The dataset, [`TGR-21_EdgeAI_dataset.zip`](https://github.com/Prometheus9718/TGR-21-EdgeAI/releases/latest/download/TGR-21_EdgeAI_dataset.zip), holds 24 simulated piles (430 beans) and 9 stress-test photos (871 beans), each with exact masks and classes, plus our results on the real test photo and the generator scripts.
+Everything that ran in the final test is in [`code/`](code/), with the trained weights; its README lists every command. The dataset in [`dataset/`](dataset/) holds 24 simulated piles (430 beans) and 9 stress-test photos (871 beans), each with exact masks and classes, plus our results on the real test photo and the generator scripts.
 
 ```sh
 cd code

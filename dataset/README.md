@@ -1,8 +1,6 @@
-**Download:** [TGR-21_EdgeAI_dataset.zip](https://github.com/Prometheus9718/TGR-21-EdgeAI/releases/latest/download/TGR-21_EdgeAI_dataset.zip) (49 MB, under Releases). This is the README inside it.
-
 # TGR-21 Edge AI dataset — TESA Top Gun Rally 2026
 
-Data we generated and results we produced in the Edge AI track (Chumphon Robusta coffee beans), by team TGR-21 RTNA (Royal Thai Naval Academy). The code that made it is in `scripts/` and at https://github.com/Prometheus9718/TGR-21-EdgeAI.
+Data we generated and results we produced in the Edge AI track (Chumphon Robusta coffee beans), by team TGR-21 RTNA (Royal Thai Naval Academy). The code that made it is in [`scripts/`](scripts/) and in [`../code/`](../code/).
 
 ## What's inside
 
